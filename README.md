@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Badillah, simply call me Dila
 - 👀 I learned nursing science and electrical engineering, graduated in 2023
 - 🌱 I want to contribute in developing computer aided diagnosis and generating devices to reduce patient dependency in healing or recovery period
-- 💞️ currently starting learn machine learning and python from scratch
+- 💞️ currently start machine learning and python from scratch
 - ⚡ Fun fact: Soekarno st. 1, still be my favorite place to work 9/5 in 2025
 
 <!---
